@@ -8,3 +8,6 @@
 ## Estatísticas do GitHub
 
 ![Ulisses GitHub Stats](https://github-readme-stats.vercel.app/api?username=UlissesAlba&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAlba&layout=compact&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=UlissesAlba&theme=dracula&hide_border=true)
+
