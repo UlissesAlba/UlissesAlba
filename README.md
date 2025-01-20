@@ -9,6 +9,8 @@
 
 ![Ulisses GitHub Stats](https://github-readme-stats.vercel.app/api?username=UlissesAlba&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UlissesAlba&layout=compact&theme=radical)
 
-## Gráfico de Contribuições
-![Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=UlissesAlba&theme=radical&hide_border=true)
+## Gráfico de Atividade do GitHub
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UlissesAlba&theme=react-dark&hide_border=true)
+
 
